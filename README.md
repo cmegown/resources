@@ -4,4 +4,5 @@ An ever-growing collection of useful resources to help prototype and build websi
 
 ## Image placeholders
 
+* [picsum.photos](https://picsum.photos/)
 * [lorem.space](https://lorem.space/)
